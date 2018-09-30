@@ -1,6 +1,6 @@
 {
     "extends": "airbnb-base",
     "rules": {
-        "quotes": ["double"]
+        "quotes": ["warn", "double"]
     }
 }
