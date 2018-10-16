@@ -5,16 +5,8 @@
   "author": "Egee",
   "license": "MIT",
   "main": "main.js",
-  "homepage": "https://github.com/egee-irl/node-gtk-example#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/egee-irl/node-gtk-example.git"
-  },
-  "bugs": {
-    "url": "https://github.com/egee-irl/node-gtk-example/issues"
   },
   "dependencies": {
     "node-gtk": "^0.2.0"
